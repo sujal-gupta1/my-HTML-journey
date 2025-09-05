@@ -63,7 +63,7 @@
     <br />
     <br />
     <br />
-    <h1><a href="/PROJECTS.html">MY EXPERIENCES</a></h1>
+    <h1><a href="/PROJECTS.html">MY PROJECTS</a></h1>
     <hr />
     <h1 align="center">MY EDUCATION</h1>
      <h2><pre>
