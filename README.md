@@ -10,20 +10,21 @@
     <h1>this is most important line</h1>            <!--heading tag -->
     <h6>this is least important line</h6>
     <p>this is a paragraph</p>                      <!--paragraph tag-->
-    <a href="https://www.google.com">Google</a>     <!--anchor tag-->
+    <hr />                                          <!--line maker-->
+    <a href="https://www.google.com">Google</a>     <!--anchor tag = to add a link-->
     <br />                                          <!--line changer-->
     <a href="https://github.com/dashboard">github</a> 
     <br />
-    <a href="/PORTFOLIO.html">my portfolio</a>       <!--relative link-->
-    <br />
+    <a href="/portfolio.html">my portfolio</a>       <!--relative link-->
+    <hr />
     <img src="https://avatars.githubusercontent.com/u/215622497?v=4" alt="my photo">    <!--web link-->
     <br />  
-    <img src="/my photo.jpg" alt="my photo">        <!--local file link-->
+    <img src="/my photo.jpg" alt="my photo" >            <!--local file link-->
     <br />
     <img src="/my photo.jpg" alt="my photo" height="300">   <!--adjust size by height-->
     <br />
     <img src="/my photo.jpg" alt="my photo" width="400">   <!--adjust size by widths-->
-    <br />
+    <hr />
     <b>to bold a text</b>
     <br />
     <i>to style a text in italic</i>
@@ -32,6 +33,25 @@
     <br />
     <b><u>bold and underlined text</u></b>
     <hr />
+    <!--05/09/2025-->
+    <big>this makes the text appear big</big>
+     <br />
+    this is normal text size
+     <br />
+    <small>this makes the text appear small</small>
+     <hr />
+    <p>H<sub>2</sub>O</p>                               <!--subscript tag to shift up-->
+    <p>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></p>
+    <p>3<sup>2</sup>=9</p>                              <!--superscript tag to shift down-->
+    <p>A<sup>2</sup>+B<sup>2</sup></p>
+    <hr />
+    <pre>
+        Lorem ipsum         dolor sit, amet consectetur adipisicing elit.
+        Impedit voluptatum fugit est dolorum facilis. Dicta, voluptatum eligendi? Quibusdam dicta ullam provident, quaerat qui corrupti optio perspiciatis. Ab accusantium ex debitis.rem
+    </pre>
+    <!--this makes the text appear as it is writtren,without ignoring spaces and line changing-->
+    <hr />
+    <!--06/09/2025-->
     <h1 align="center">MY PORTFOLIO</h1>
     <h1><a href="/EDUCATION.html";>MY EDUCATION</a></h1>
     <br />
