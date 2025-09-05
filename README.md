@@ -32,6 +32,19 @@
     <br />
     <b><u>bold and underlined text</u></b>
     <hr />
+    <h1 align="center">MY PORTFOLIO</h1>
+    <h1><a href="/EDUCATION.html";>MY EDUCATION</a></h1>
+    <br />
+    <br />
+    <br />
+    <br />
+    <h1><a href="/EXPERIENCE.html">MY EXPERIENCES</a></h1>
+    <br />
+    <br />
+    <br />
+    <br />
+    <h1><a href="/PROJECTS.html">MY EXPERIENCES</a></h1>
+    <hr />
     <h1 align="center">MY EDUCATION</h1>
      <h2><pre>
         <img src="https://bser-exam.in/img/boserlogo.png" alt="BSER LOGO" height="200">
