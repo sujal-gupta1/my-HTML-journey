@@ -38,13 +38,33 @@
         <p style="font-size: 30px;">    <b>Board of Secondary Education Rajasthan
     PCMB</b></p>
     </pre></h2> 
-    <hr />
-    <hr />
+    <br />
+    <br />
     <h2><pre>
         <img src="https://mbmec.weebly.com/uploads/1/3/0/0/130049266/editor/mbm-logo-1.png?1662674703" alt="MBMU logo">
         <p style="font-size: 30px;">    <b>M.B.M. Engineering College, Jodhpur
     Bachelor of Engineering, Mining and Mineral Engineering.
     2024 - 2028</b></p>
     </pre></h2> 
+    <hr />
+    <h1 align="center">MY EXPERIENCES</h1>
+   <h2><pre>
+        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGN3Vcm0FCAMg/img-crop_100/B4DZiK0rwWH8AQ-/0/1754675731439?e=1759968000&v=beta&t=GQLDle4V6Oqc4GwH1qiyjEJC1L8R4byzatpizAUSdM4" height="200">
+        <p style="font-size: 30px;">    <b>
+Project Team Lead
+<a href="https://www.linkedin.com/company/spark-mbm/posts/?feedView=all">SPARK MBM</a> 
+Jun 2025 - Present ·
+Jodhpur, Rajasthan, India
+I am leading my team in spark project 1.</b></p>
+    </pre></h2>
+    <hr />
+    <h1 align="center">MY PROJECTS</h1>
+    <h2><pre>
+        <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQH3aeZrtyDA-A/articleshare-shrink_160/B4EZjxe3fsGUAs-/0/1756398057729?e=1757703600&v=beta&t=6PCKwUZgKGL0Ma-qGyfws07rA_Q-WDtWbgvWqtsHn8g" alt="PROJECT LOGO" height="100">
+        <p style="font-size: 20px;">    <b>
+<a href="https://github.com/sujal-gupta1/Spark-project-1" >spark project 1</a>/ Travel booking system
+Jun 2025 - Present
+        </b>
+    </pre>
 </body>
 </html>
