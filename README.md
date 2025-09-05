@@ -14,7 +14,7 @@
     <br />                                          <!--line changer-->
     <a href="https://github.com/dashboard">github</a> 
     <br />
-    <a href="/portfolio.html">my portfolio</a>       <!--relative link-->
+    <a href="/PORTFOLIO.html">my portfolio</a>       <!--relative link-->
     <br />
     <img src="https://avatars.githubusercontent.com/u/215622497?v=4" alt="my photo">    <!--web link-->
     <br />  
