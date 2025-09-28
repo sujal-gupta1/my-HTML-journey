@@ -262,6 +262,23 @@
             <div id="id2" class="group1">THIS IS SECOND OF G1</div>
             <br />
             <br />
+            <!--28/09/2025-->
+            <select name="city" id="city">              <!--to make a dropdown selector-->
+                <option value="DELHI">DELHI</option>
+                <option value="MUMBAI">MUMBAI</option>
+                <option value="BANGLORE">BANGLORE</option>
+            </select>
+            <br>
+            <br>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/HcOc7P5BMi4?si=4fOHHWuhrXv1TVf3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        <!--to display another website functionally on own website-->
+            <br>
+            <br>
+            <video src="myvidep.mp4" controls height="315" width="560" loop>MY VIDEO</video>            <!--to display a local video-->
+            <br>
+            <br>
+            <input type="submit" value="submit">            <!--for submitting a form-->
+            <br>
+            <br>
             <textarea name="feedback" id="203" placeholder="PLEASE GIVE YOUR feedback HERE" rows=5></textarea>      <!--typing space for user-->
         </form>
     </main>
